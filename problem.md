@@ -9,6 +9,9 @@ The application will also encourage the user to complete their tasks by giving m
 We plan to make this program a beneficial addition to people’s planning process so they can accomplish more and be more efficient with their time.
 
 ### <br>Scope of Product<br>
+The main purpose of the application is to help a user be able to achieve his or her daily goals and by having it all in one place the user can constantly have an idea of how well their day is going. The main problem we are trying to tackle is the frequency with which people are unable to simply complete the things they set out to complete at the start of the day.
+The application is not an instant fix or a remedy, but it is the best possible way to keep our users accountable to themselves, and that is what we aim at doing with our app. 
+The application provides the user with an interface where he/she can setup their daily goals and the app will provide timely reminders and also provide them with a completion rating at the end of the day, followed by a motivational quote that will be chosen on the basis of their completion rating.
 
 ### <br>Acronyms, Abbreviations, Definitions<br>
 + Wherever “we” is mentioned, it is defined as the group as the whole and what decisions the group has made. Specific information from specific people will be implicitly noted.
