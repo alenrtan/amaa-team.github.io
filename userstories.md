@@ -1,4 +1,4 @@
-<body style="background-color:LightGray;"></body>
+<body style="background-color:DarkGray;"></body>
 
 # User Stories
 
