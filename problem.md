@@ -12,7 +12,7 @@ We plan to make this program a beneficial addition to people’s planning proces
 
 ### <br>Acronyms, Abbreviations, Definitions<br>
 + Wherever “we” is mentioned, it is defined as the group as the whole and what decisions the group has made. Specific information from specific people will be implicitly noted.
-+ For outside sources and other information regarding outside information, please see the ["References"](https://alenrtan.github.io/amaa-team.github.io/problem.html#References) portion.<br><br>
++ For outside sources and other information regarding outside information, please see the ["References"](https://alenrtan.github.io/amaa-team.github.io/problem.html#references) portion.<br><br>
 
 + *Definitions*:
   + AMAA 
