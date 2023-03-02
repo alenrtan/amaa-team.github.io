@@ -25,25 +25,25 @@ The application provides the user with an interface where he/she can setup their
 
 ### <br><font color='White'>Acronyms, Abbreviations, Definitions</font><br>
 
-<font color='White'>
-+ Wherever “we” is mentioned, it is defined as the group as the whole and what decisions the group has made. Specific information from specific people will be implicitly noted.
-+ For outside sources and other information regarding outside information, please see the ["References"](https://alenrtan.github.io/amaa-team.github.io/problem.html#references) portion.</font><br><br>
 
-+ *Definitions*:
-  + AMAA 
-    + Alen, Marco, Alex, Anish
-    + The first initials of the names of people in the group.
-  + Application
-    + A format; Desktop-based application
-  + JavaFX
-    + The library that we will be using in order to implement the GUI portion of the project. We will use the built-in functions that will help create the window, and objects in the window, that the user can interact with.
-  + TaskManager
-    + The name of the application. TaskMaster is made by AMAA Team.
++ <font color='White'>Wherever “we” is mentioned, it is defined as the group as the whole and what decisions the group has made. Specific information from specific people will be implicitly noted.
++ <font color='White'>For outside sources and other information regarding outside information, please see the ["References"](https://alenrtan.github.io/amaa-team.github.io/problem.html#references) portion.</font><br><br>
 
-### <br>References<br>
-+ **Project Site:** Learn more about our project! (https://alenrtan.github.io/amaa-team.github.io/)
-+ **Program Repository:** Check out the nitty gritty details of our code! (https://github.com/aacuna45/AMAA-Project)
-+ **Project Page Repository:** (https://github.com/alenrtan/amaa-team.github.io
-+ **JavaFX Website:** This is the resource we plan to use to make our program look great! (https://openjfx.io/)
++ <font color='White'>*Definitions*</font>:
+  + <font color='White'>AMAA </font>
+    + <font color='White'>Alen, Marco, Alex, Anish</font>
+    + <font color='White'>The first initials of the names of people in the group.</font>
+  + <font color='White'>Application</font>
+    + <font color='White'>A format; Desktop-based application</font>
+  + <font color='White'>JavaFX</font>
+    + <font color='White'>The library that we will be using in order to implement the GUI portion of the project. We will use the built-in functions that will help create the window, and objects in the window, that the user can interact with.</font>
+  + <font color='White'>TaskManager</font>
+    + <font color='White'>The name of the application. TaskMaster is made by AMAA Team.</font>
+
+### <br><font color='White'>References</font><br>
++ <font color='White'>**Project Site:** Learn more about our project! (https://alenrtan.github.io/amaa-team.github.io/)</font>
++ <font color='White'>**Program Repository:** Check out the nitty gritty details of our code! (https://github.com/aacuna45/AMAA-Project)</font>
++ <font color='White'>**Project Page Repository:** (https://github.com/alenrtan/amaa-team.github.io</font>
++ <font color='White'>**JavaFX Website:** This is the resource we plan to use to make our program look great! (https://openjfx.io/)</font>
 
 
