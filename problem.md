@@ -41,9 +41,9 @@ The application provides the user with an interface where he/she can setup their
     + <font color='White'>The name of the application. TaskMaster is made by AMAA Team.</font>
 
 ### <br><font color='White'>References</font><br>
-+ **<font color='White'>Project Site:</font>** Learn more about our project! (https://alenrtan.github.io/amaa-team.github.io/)
-+ **<font color='White'>Program Repository:</font>** Check out the nitty gritty details of our code! (https://github.com/aacuna45/AMAA-Project)
-+ **<font color='White'>Project Page Repository:</font>** (https://github.com/alenrtan/amaa-team.github.io
-+ **<font color='White'>JavaFX Website:</font>** This is the resource we plan to use to make our program look great! (https://openjfx.io/)
+**<font color='White'>Project Site:</font>** Learn more about our project! (https://alenrtan.github.io/amaa-team.github.io/)
+**<font color='White'><br>Program Repository:</font>** Check out the nitty gritty details of our code! (https://github.com/aacuna45/AMAA-Project)
+**<font color='White'><br>Project Page Repository:</font>** (https://github.com/alenrtan/amaa-team.github.io
+**<font color='White'><br>JavaFX Website:</font>** This is the resource we plan to use to make our program look great! (https://openjfx.io/)
 
 
