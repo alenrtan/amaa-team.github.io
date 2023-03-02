@@ -1,4 +1,5 @@
 <body style="background-color:rgb(44, 47, 52);"></body>
+<span style="color:White">
 
 # AMAA Team's Project Site 
 ##### GitHub project site for AMAA Team's productivity app 
@@ -11,4 +12,4 @@
 #### |[Design Document](design.md)
 #### |[Test Report](testreport.md)
 
-</style>
+</span>
