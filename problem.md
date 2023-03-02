@@ -33,5 +33,5 @@ The application provides the user with an interface where he/she can setup their
 ### <br>References<br>
 + **Project Site:** [Learn more about our project!](https://alenrtan.github.io/amaa-team.github.io/)
 + **Program Repository:** [Check out the nitty gritty details of our code!](https://github.com/aacuna45/AMAA-Project)
-+ **Project Site Repository:** [It's the page you're one right now!](https://github.com/alenrtan/amaa-team.github.io)
++ **Project Site Repository:** [Behind the scenes of the our page!](https://github.com/alenrtan/amaa-team.github.io)
 + **JavaFX Website:** [This is the resource we plan to use to make our program look great!](https://openjfx.io/)
