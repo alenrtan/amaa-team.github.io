@@ -25,8 +25,9 @@ The application provides the user with an interface where he/she can setup their
 
 ### <br><font color='White'>Acronyms, Abbreviations, Definitions</font><br>
 
+<font color='White'>
 + Wherever “we” is mentioned, it is defined as the group as the whole and what decisions the group has made. Specific information from specific people will be implicitly noted.
-+ For outside sources and other information regarding outside information, please see the ["References"](https://alenrtan.github.io/amaa-team.github.io/problem.html#references) portion.<br><br>
++ For outside sources and other information regarding outside information, please see the ["References"](https://alenrtan.github.io/amaa-team.github.io/problem.html#references) portion.</font><br><br>
 
 + *Definitions*:
   + AMAA 
