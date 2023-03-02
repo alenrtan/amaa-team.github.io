@@ -3,6 +3,8 @@
 
 # AMAA Team's Project Site 
 ##### GitHub project site for AMAA Team's productivity app 
+</span>
+
 -----------------------------------------------------------
 #### Some Useful Links:
 #### |[Problem Statement](problem.md)
@@ -12,4 +14,3 @@
 #### |[Design Document](design.md)
 #### |[Test Report](testreport.md)
 
-</span>
