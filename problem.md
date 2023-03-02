@@ -40,4 +40,3 @@ The application provides the user with an interface where he/she can setup their
 + **Project Page Repository:** (https://github.com/alenrtan/amaa-team.github.io
 + **JavaFX Website:** This is the resource we plan to use to make our program look great! (https://openjfx.io/)
 
-</body>
