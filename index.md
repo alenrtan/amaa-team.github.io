@@ -1,4 +1,4 @@
-<body style="background-color:LightGray;"></body>
+<body style="background-color:DarkGray;"></body>
 
 # AMAA Team's Project Site 
 ##### GitHub project site for AMAA Team's productivity app 
