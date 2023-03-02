@@ -4,8 +4,8 @@
 ##### <font color='White'>GitHub project site for AMAA Team's productivity app </font>
 
 -----------------------------------------------------------
-#### Some Useful Links:</font>
-#### |[Problem Statement]</font>(problem.md)
+#### Some Useful Links:
+#### |[Problem Statement](problem.md)
 #### |[User Stories](userstories.md)
 #### |[Requirements](requirements.md)
 #### |[Architecture](architecture.md)
