@@ -1,10 +1,10 @@
-<body style="background-color:rgb(64, 67, 72);"></body>
+<body style="background-color:LightGray;"></body>
 
-# <font color='White'>AMAA Team's Project Site </font>
-##### <font color='White'>GitHub project site for AMAA Team's productivity app </font>
+# AMAA Team's Project Site 
+##### GitHub project site for AMAA Team's productivity app 
 
 -----------------------------------------------------------
-#### <font color='White'>Some Useful Links:</font>
+#### Some Useful Links:
 #### |[Problem Statement](problem.md)
 #### |[User Stories](userstories.md)
 #### |[Requirements](requirements.md)
