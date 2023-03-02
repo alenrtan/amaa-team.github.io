@@ -1,14 +1,14 @@
-<body style="background-color:rgb(44, 47, 52);"></body>
+<body style="background-color:rgb(64, 67, 72);"></body>
 
-# AMAA Team's Project Site 
-##### GitHub project site for AMAA Team's productivity app 
+# <font color='White'>AMAA Team's Project Site </font>
+##### <font color='White'>GitHub project site for AMAA Team's productivity app </font>
 
 -----------------------------------------------------------
-#### Some Useful Links:
-#### |[Problem Statement](problem.md)
-#### |[User Stories](userstories.md)
-#### |[Requirements](requirements.md)
-#### |[Architecture](architecture.md)
-#### |[Design Document](design.md)
-#### |[Test Report](testreport.md)
+#### <font color='White'>Some Useful Links:</font>
+#### <font color='White'>|[Problem Statement](problem.md)</font>
+#### <font color='White'>|[User Stories](userstories.md)</font>
+#### <font color='White'>|[Requirements](requirements.md)</font>
+#### <font color='White'>|[Architecture](architecture.md)</font>
+#### <font color='White'>|[Design Document](design.md)</font>
+#### <font color='White'>|[Test Report](testreport.md)</font>
 
