@@ -5,7 +5,7 @@
 
 ### Custom Task Creation 
 
-As a WIP I need an app that will help keep track of all of the tasks I need to complete for the week. 
+As a marketing manager I need an app that will help keep track of all of the tasks I need to complete for the week. 
 
 Elaboration: The program should be able to create and store tasks onto local storage. Its currently planned to save tasks onto a csv file. 			 
 
@@ -29,7 +29,7 @@ Effort Estimation: 10 person hours
 
 ### Graphical User Interface
 
-As a WIP I want to look at my tasks at a glance and not have to dig through a database to see what needs to be done for the week. 
+As a personal assistant I want to look at my tasks at a glance and not have to dig through a database to see what needs to be done for the week. 
 
 
 Elaboration: The program will support a GUI that displays a calendar that shows all tasks/events saved.
