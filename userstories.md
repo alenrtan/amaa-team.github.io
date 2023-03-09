@@ -47,3 +47,13 @@ Elaboration: The home UI is very user friendly and easy to use, allows you to ta
 Constraints: need to design UI that can fit all functionalities in one screen.
 
 Effort Estimation: 10 person hours
+
+### Activity reminders
+
+As an elementary teacher, I would like a program that reminds me of the school event/activity preparations I have not completed throughout the week.
+
+Elaboration: The program will deliver message reminders to the user about tasks that have not been completed.
+
+Constraints: There must be a cooldown period between reminders to not bombard the user with too many reminders.
+
+Effort Estimation: 10 person hours
