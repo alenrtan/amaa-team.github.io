@@ -37,3 +37,13 @@ Elaboration: The program will support a GUI that displays a calendar that shows 
 Constraints: The interface should show at least a week to the user. Along with a clear view of the tasks name and/or discription.
 
 Effort Estimation: 10 person hours 
+
+### Minimal User Interface
+
+As a mother of 3 I need something simple i can use on the go, to keep track of my daily activities with just a quick glance. Managing 3 is not easy you know !.
+
+Elaboration: The home UI is very user friendly and easy to use, allows you to take a look at existing tasks and add new ones quickly on the same screen. 
+
+Constraints: need to design UI that can fit all functionalities in one screen.
+
+Effort Estimation: 10 person hours
