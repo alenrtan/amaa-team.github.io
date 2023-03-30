@@ -76,9 +76,9 @@ Describe external requirements that will constrain your design choices. Then lis
 ### <br>4.4 Quality Requirements<br>
 What quality expectations do your users have? Is your system life-critical? Describe such issues, then list specific requirements using item numbers as NF.4.4.X.
 Our users need the program to not have any glitches and be reliable to remind them of tasks at the correct times. Being simple to use and easy to learn is also important to make it appeal to many users.
-NF.4.4.1 Aesthetic Visual Design that does not strain the eyes
-NF.4.4.2 Basic GUI with only the required buttons for functions (clutter-free)
-NF.4.4.3 Continuous reminders at appropriate times until tasks are marked as complete by user
+<br>NF.4.4.1 Aesthetic Visual Design that does not strain the eyes
+<br>NF.4.4.2 Basic GUI with only the required buttons for functions (clutter-free)
+<br>NF.4.4.3 Continuous reminders at appropriate times until tasks are marked as complete by user
 
 ### <br>4.5 Other Requirements<br>
 Anything else you need to say. Use item numbers NF.4.5.X.
