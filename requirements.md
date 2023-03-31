@@ -74,14 +74,15 @@ NF.4.2.1
 Describe external requirements that will constrain your design choices. Then list specific requirements using item numbers as NF.4.3.X.
 
 ### <br>4.4 Quality Requirements<br>
-What quality expectations do your users have? Is your system life-critical? Describe such issues, then list specific requirements using item numbers as NF.4.4.X.
 Our users need the program to not have any glitches and be reliable to remind them of tasks at the correct times. Being simple to use and easy to learn is also important to make it appeal to many users.
 <br>NF.4.4.1 Aesthetic Visual Design that does not strain the eyes
 <br>NF.4.4.2 Basic GUI with only the required buttons for functions (clutter-free)
 <br>NF.4.4.3 Continuous reminders at appropriate times until tasks are marked as complete by user
 
 ### <br>4.5 Other Requirements<br>
-Anything else you need to say. Use item numbers NF.4.5.X.
+NF.4.5.1 Taskmaster must be simple to use,It is a one size fits all application.
+<br>NF.4.5.2 Must help users realiably track their usage of time.
+<br>NF.4.5.3 Quotes and notifications must not flood the users desktop and become counter-productive. 
 
 ### <br>5 Appendices<br>
 Include external documents that describe domain or constraints or any necessary information. Use URL links if possible.
