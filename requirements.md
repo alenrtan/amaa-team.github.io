@@ -37,14 +37,25 @@ The application provides the user with an interface where he/she can setup their
 + **Project Site Repository:** [Behind the scenes of our page!](https://github.com/alenrtan/amaa-team.github.io)
 + **JavaFX Website:** [This is the resource we plan to use to make our program look great!](https://openjfx.io/)
 
-### <br>2.1 Context of Product<br>
-Our project will be a desktop program that runs locally on the user's computer/laptop.
+### <br> 2.1 Context of Product <br>
+- Our project will be a desktop program that runs locally on the user's computer/laptop.
 
 ### <br>2.2 Domain Model with Description<br>
-Display and describe your domain model.
+![Domain Model for TaskMaster](https://alenrtan.github.io/amaa-team.github.io/DomainModel.png) <br>
+The domain model above is a general representation of the TaskMaster application. The TaskMaster application relies on the 3 different major parts: 
+  1. User
+  2. Controller
+  3. Reminders
+
+The user represents the most "top-level" in the hierarchy. The user has access to the other relative sections, as the user is where the information comes from. Once there is information to store, user input, then it will be sent to the Controller class `controller.java` <br>
+
+The controller class is what handles the buttons and forms that the user can interact with. It is the bridge between the user and the creation of reminders.
+<br>
+
+The reminders is where all the 
 
 ### <br>2.3 Product Functions (general)<br>
-The Taskmaster program will have functionality for the user to add tasks to a list which the program will keep track of. The program will remind users to complete tasks, and will additionally provide encouragement through offering motivational quotes along with the reminders.
+- The Taskmaster program will have functionality for the user to add tasks to a list which the program will keep track of. The program will remind users to complete tasks, and will additionally provide encouragement through offering motivational quotes along with the reminders.
 
 ### <br>2.4 User Characteristics and Expectations<br>
 Describe your users and their abilities.
