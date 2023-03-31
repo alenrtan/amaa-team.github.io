@@ -75,9 +75,10 @@ On-time reminders is how the user can see how often they are finishing tasks on 
 - Please see: https://alenrtan.github.io/amaa-team.github.io/userstories.html
 
 ### <br>4.1 External Interface Requirements (User,Hardware, Software, Communications)<br>
-Describe what kinds of interfaces your product has, and what they do. Then list specific requirements using item numbers as NF.4.1.X.
 - Our program will have a GUI that comes up in a window on the computer screen. There is interaction with the user using a keyboard and mouse to select functions and enter information into the program, which may occur on overlays in our window.
-NF.4.1.1
+- NF.4.1.1 Device must have a display
+- NF.4.1.2 Devcice must have mouse input
+- NF.4.1.3 Device must have keyboar input
 
 ### <br>4.2 Performance Requirements<br>
 Describe your product's performance needs. Then list specific requirements using item numbers as NF.4.2.X. <br>
