@@ -49,31 +49,34 @@ The domain model above is a general representation of the TaskMaster application
 
 The user represents the most "top-level" in the hierarchy. The user has access to the other relative sections, as the user is where the information comes from. Once there is information to store, user input, then it will be sent to the Controller class `controller.java` <br>
 
-The controller class is what handles the buttons and forms that the user can interact with. It is the bridge between the user and the creation of reminders.
+The controller class is what handles the buttons and forms that the user can interact with. It is the bridge between the user and the creation of reminders. It also has access to the storage.
 <br>
 
-The reminders is where all the 
+Storage and reminders work hand-in-hand. Whenever the controller receives input, it is sent to be process by the reminders class. This, then, is stored in the reminders.
+
+On-time reminders is how the user can see how often they are finishing tasks on time.
 
 ### <br>2.3 Product Functions (general)<br>
 - The Taskmaster program will have functionality for the user to add tasks to a list which the program will keep track of. The program will remind users to complete tasks, and will additionally provide encouragement through offering motivational quotes along with the reminders.
 
 ### <br>2.4 User Characteristics and Expectations<br>
-Describe your users and their abilities.
-Our user base will want organized tasks with added reminders to encourage them to complete these tasks. Taskmaster users only need the most basic computer skills, ability to use a mouse to click on things and keyboard to type. Users will need to read text in our program to select the correct functions they want and to know what informations needs to be input.
+- Our userbase will want organized tasks with added reminders to encourage them to complete these tasks. TaskMaster users only need the most basic computer skills, ability to use a mouse to click on things, and keyboard to type. Users will need to read text in our program to select the correct functions they want and to know what information(s) needs to be input.
 
 ### <br>2.5 Constraints<br>
-Describe any constraints on your system.
+- Our program currently has the constraint of only running on devices that have successfully installed JavaFX/OpenFX. This is due to the needed dependencies. [See 2.6.](https://alenrtan.github.io/amaa-team.github.io/requirements.html#26-assumptions-and-dependencies)
+  
+  - This issue is currently being researched on.
 
 ### <br>2.6 Assumptions and Dependencies<br>
-Does your system depend on external software packages? System assumptions? If so, describe them.
+- The TaskMaster program depends heavily on the many `.jar` files provided by the [OpenFX software](https://openjfx.io/).
+- For the time being, it is the assumed that the user has Java 17+ and some JavaFX version 17+ installed.
 
 ### <br>3. Functional Requirements<br>
-In a standard requirements document, you would have a LONG list of functional requirements here. You should put a link to your user story page here.
-https://alenrtan.github.io/amaa-team.github.io/userstories.html
+- Please see: https://alenrtan.github.io/amaa-team.github.io/userstories.html
 
 ### <br>4.1 External Interface Requirements (User,Hardware, Software, Communications)<br>
 Describe what kinds of interfaces your product has, and what they do. Then list specific requirements using item numbers as NF.4.1.X.
-Our program will have a GUI that comes up in a window on the computer screen. There is interaction with the user using a keyboard and mouse to select functions and enter information into the program, which may occur on overlays in our window.
+- Our program will have a GUI that comes up in a window on the computer screen. There is interaction with the user using a keyboard and mouse to select functions and enter information into the program, which may occur on overlays in our window.
 NF.4.1.1
 
 ### <br>4.2 Performance Requirements<br>
@@ -108,6 +111,6 @@ Describe external requirements that will constrain your design choices. Then lis
   - Quotes and notifications must not flood the users desktop and become counter-productive. 
 
 ### <br>5. Appendices<br>
-- Usage of JavaFX / OpenFX documentation (https://openjfx.io/openjfx-docs/).
+- [Usage of JavaFX / OpenFX documentation can be found here](https://openjfx.io/openjfx-docs/).
 <br> 
-- Additional user constraints specified in the user stories (https://alenrtan.github.io/amaa-team.github.io/userstories.html).
+- Additional user constraints specified in the [user stories](https://alenrtan.github.io/amaa-team.github.io/userstories.html).
