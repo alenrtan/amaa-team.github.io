@@ -56,7 +56,7 @@ Describe any constraints on your system.
 ### <br>2.6 Assumptions and Dependencies<br>
 Does your system depend on external software packages? System assumptions? If so, describe them.
 
-### <br>3 Functional Requirements<br>
+### <br>3. Functional Requirements<br>
 In a standard requirements document, you would have a LONG list of functional requirements here. You should put a link to your user story page here.
 https://alenrtan.github.io/amaa-team.github.io/userstories.html
 
@@ -66,24 +66,37 @@ Our program will have a GUI that comes up in a window on the computer screen. Th
 NF.4.1.1
 
 ### <br>4.2 Performance Requirements<br>
-Describe your product's performance needs. Then list specific requirements using item numbers as NF.4.2.X.
-The Taskmaster program will be low-impact with regards with performance and will not require many system resources.
-NF.4.2.1 
+Describe your product's performance needs. Then list specific requirements using item numbers as NF.4.2.X. <br>
+- NF.4.2.1  
+  - The Taskmaster program will be low-impact with regards with performance and will not require many system resources.
+ 
 
 ### <br>4.3 Design Constraints<br>
 Describe external requirements that will constrain your design choices. Then list specific requirements using item numbers as NF.4.3.X.
 
-### <br>4.4 Quality Requirements<br>
-Our users need the program to not have any glitches and be reliable to remind them of tasks at the correct times. Being simple to use and easy to learn is also important to make it appeal to many users.
-<br>NF.4.4.1 Aesthetic Visual Design that does not strain the eyes.
-<br>NF.4.4.2 Basic GUI with only the required buttons for functions (clutter-free).
-<br>NF.4.4.3 Continuous reminders at appropriate times until tasks are marked as complete by user.
+### <br>4.4 Quality Requirements <br>
+- Our users need the program to not have any glitches and be reliable to remind them of tasks at the correct times. Being simple to use and easy to learn is also important to make it appeal to many users.
+<br>
+  - NF.4.4.1 
+    - Aesthetic Visual Design that does not strain the eyes.
+  <br>
+  - NF.4.4.2 
+    - Basic GUI with only the required buttons for functions (clutter-free).
+  <br>
+  - NF.4.4.3 
+    - Continuous reminders at appropriate times until tasks are marked as complete by user.
 
 ### <br>4.5 Other Requirements<br>
-NF.4.5.1 Taskmaster must be simple to use,It is a one size fits all application.
-<br>NF.4.5.2 Must help users realiably track their usage of time.
-<br>NF.4.5.3 Quotes and notifications must not flood the users desktop and become counter-productive. 
+- NF.4.5.1 
+  - Taskmaster must be simple to use, it is a one size fits all application.
+<br>
+- NF.4.5.2 
+  - Must help users realiably track their usage of time.
+<br>
+- NF.4.5.3 
+  - Quotes and notifications must not flood the users desktop and become counter-productive. 
 
-### <br>5 Appendices<br>
-Usage of JavaFX / OpenFX documentation (https://openjfx.io/openjfx-docs/).
-<br> Additional user constraints specified in the user stories (https://alenrtan.github.io/amaa-team.github.io/userstories.html).
+### <br>5. Appendices<br>
+- Usage of JavaFX / OpenFX documentation (https://openjfx.io/openjfx-docs/).
+<br> 
+- Additional user constraints specified in the user stories (https://alenrtan.github.io/amaa-team.github.io/userstories.html).
