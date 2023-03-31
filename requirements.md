@@ -49,9 +49,7 @@ The domain model above is a general representation of the TaskMaster application
 
 The user represents the most "top-level" in the hierarchy. The user has access to the other relative sections, as the user is where the information comes from. Once there is information to store, user input, then it will be sent to the Controller class `controller.java` <br>
 
-The controller class is what handles the buttons and forms that the user can interact with. It is the bridge between the user and the creation of reminders. It also has access to the storage.
-<br>
-
+The controller class is what handles the buttons and forms that the user can interact with. It is the bridge between the user and the c<?
 Storage and reminders work hand-in-hand. Whenever the controller receives input, it is sent to be process by the reminders class. This, then, is stored in the reminders.
 
 On-time reminders is how the user can see how often they are finishing tasks on time.
@@ -81,13 +79,17 @@ On-time reminders is how the user can see how often they are finishing tasks on 
 - NF.4.1.3 Device must have keyboar input
 
 ### <br>4.2 Performance Requirements<br>
-Describe your product's performance needs. Then list specific requirements using item numbers as NF.4.2.X. <br>
-- NF.4.2.1  
-  - The Taskmaster program will be low-impact with regards with performance and will not require many system resources.
- 
+The Taskmaster program will be low-impact with regards with performance and will not require many system resources.
+<br>NF.4.2.1 Resource efficient to run with other programs 
+<br>NF.4.2.2 Run on a Windows system (Other OS options are not being planned)
+<br>NF.4.2.3 Be storage efficient for data storge
 
 ### <br>4.3 Design Constraints<br>
-Describe external requirements that will constrain your design choices. Then list specific requirements using item numbers as NF.4.3.X.
+The Taskmaster program is designed to be a simple java application to keep track of the information given by the user. The only data that can be accessed is the files within its folder.  
+<br>NF.4.3.1 The program will only store the data given by the user in reminders and completion record 
+<br>NF.4.3.2 The program will be offline only and save data locally 
+<br>NF.4.3.3 The program will be accessed through a GUI 
+<br>NF.4.3.4 All processes will executed through the application 
 
 ### <br>4.4 Quality Requirements <br>
 - Our users need the program to not have any glitches and be reliable to remind them of tasks at the correct times. Being simple to use and easy to learn is also important to make it appeal to many users.
