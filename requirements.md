@@ -70,26 +70,43 @@ On-time reminders is how the user can see how often they are finishing tasks on 
 - For the time being, it is the assumed that the user has Java 17+ and some JavaFX version 17+ installed.
 
 ### <br>3. Functional Requirements<br>
-- Please see: https://alenrtan.github.io/amaa-team.github.io/userstories.html
+- Please see: [User Stories](https://alenrtan.github.io/amaa-team.github.io/userstories.html)
 
 ### <br>4.1 External Interface Requirements (User,Hardware, Software, Communications)<br>
 - Our program will have a GUI that comes up in a window on the computer screen. There is interaction with the user using a keyboard and mouse to select functions and enter information into the program, which may occur on overlays in our window.
-- NF.4.1.1 Device must have a display
-- NF.4.1.2 Devcice must have mouse input
-- NF.4.1.3 Device must have keyboar input
+- NF.4.1.1 
+  - Device must have a display
+- NF.4.1.2 
+  - Devcice must have mouse input
+- NF.4.1.3 
+  - Device must have keyboar input
 
 ### <br>4.2 Performance Requirements<br>
-The Taskmaster program will be low-impact with regards with performance and will not require many system resources.
-<br>NF.4.2.1 Resource efficient to run with other programs 
-<br>NF.4.2.2 Run on a Windows system (Other OS options are not being planned)
-<br>NF.4.2.3 Be storage efficient for data storge
+- The Taskmaster program will be low-impact with regards with performance and will not require many system resources.
+<br>
+  - NF.4.2.1 
+    - Resource efficient to run with other programs 
+<br>
+  - NF.4.2.2 
+    - Run on a Windows system (Other OS options are not being planned)
+<br>
+  - NF.4.2.3 
+    - Be storage efficient for data storge
 
 ### <br>4.3 Design Constraints<br>
 The Taskmaster program is designed to be a simple java application to keep track of the information given by the user. The only data that can be accessed is the files within its folder.  
-<br>NF.4.3.1 The program will only store the data given by the user in reminders and completion record 
-<br>NF.4.3.2 The program will be offline only and save data locally 
-<br>NF.4.3.3 The program will be accessed through a GUI 
-<br>NF.4.3.4 All processes will executed through the application 
+<br>
+  - NF.4.3.1 
+    - The program will only store the data given by the user in reminders and completion record 
+<br>
+  - NF.4.3.2 
+    - The program will be offline only and save data locally 
+<br>
+  - NF.4.3.3 
+    - The program will be accessed through a GUI 
+<br>
+  - NF.4.3.4 
+    - All processes will executed through the application 
 
 ### <br>4.4 Quality Requirements <br>
 - Our users need the program to not have any glitches and be reliable to remind them of tasks at the correct times. Being simple to use and easy to learn is also important to make it appeal to many users.
