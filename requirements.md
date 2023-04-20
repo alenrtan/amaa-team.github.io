@@ -63,7 +63,8 @@ On-time reminders is how the user can see how often they are finishing tasks on 
 ### <br>2.5 Constraints<br>
 - Our program currently has the constraint of only running on devices that have successfully installed JavaFX/OpenFX. This is due to the needed dependencies. [See 2.6.](https://alenrtan.github.io/amaa-team.github.io/requirements.html#26-assumptions-and-dependencies)
   
-  - This issue is currently being researched on.
+  - This issue is currently being researched on and the team has made the decision of using [JavaPackager](https://docs.oracle.com/javase/10/tools/javapackager.htm#JSWOR719) to create an executable of our file.
+    - This issue was primarily due to not using a build tool, such as Maven
 
 ### <br>2.6 Assumptions and Dependencies<br>
 - The TaskMaster program depends heavily on the many `.jar` files provided by the [OpenFX software](https://openjfx.io/).
