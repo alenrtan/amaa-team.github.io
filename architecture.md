@@ -1,4 +1,4 @@
-<body style="background-color:Gray;"></body>
+
 
 # Architecture
 The following image represents the team's decision for the architecture. The AMAA team has decided to use a repository-style architecture with slight 

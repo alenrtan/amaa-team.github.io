@@ -1,4 +1,4 @@
-<body style="background-color:DarkGray;"></body>
+
 
 # Problem Statement
 --------------------------------------- 
