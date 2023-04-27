@@ -39,7 +39,6 @@
 
 3. Acceptance Testing
     - The requirements of the user were simple and therefore the acceptance testing shall be simple as well; acceptance was determined through testing the program through a third-person perspective. There was also a time were I had a non-group member try the program. Furthermore, a criteria was deemed successful if the critera was easily done through the program.
-    <br>
     - Activity reminders
         - Accepted; mostly implemented
     - Motivational Quotes
