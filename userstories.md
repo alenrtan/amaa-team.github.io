@@ -1,7 +1,7 @@
 
 
 # User Stories <br>
-
+#####   **Unless stated otherwise, all features are implemented**
 
 ### 1: Custom Task Creation 
 
@@ -30,7 +30,7 @@ Effort Estimation: 5 person hours
 Acceptance Test: I will get reminders at the time I specified when I created the reminder <br> <br>
 
 
-### 2: Motivational Quotes
+### 2: Motivational Quotes [TO BE IMPLEMENTED IN FUTURE VERSION]
 
 As a busy collage student I have a hard time completing my goals and want something to help motivate me. 
 

@@ -42,7 +42,7 @@
     - Activity reminders
         - Accepted; mostly implemented
     - Motivational Quotes
-        - Not accepted; no implementation
+        - **Partially** accepted; Partial implementation of a quotes system
     - Graphical User Interface
         - Accepted; completely implemented
     - Minimal User Interface
